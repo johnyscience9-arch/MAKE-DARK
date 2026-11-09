@@ -1,0 +1,6 @@
+{
+  "name": "MAKE DARK – AMOLED Launcher",
+  "description": "Ultra-lightweight AMOLED dark launcher for Android 9+ (itel Vision 1 LTE) with pure black aesthetics, custom app drawer, widgets, and full Android Studio project generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

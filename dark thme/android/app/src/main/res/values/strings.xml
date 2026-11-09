@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAKE DARK</string>
+    <string name="launcher_description">Ultra-lightweight AMOLED Dark Launcher</string>
+    <string name="select_default_launcher">Select as Default Launcher</string>
+    <string name="restore_previous_launcher">Restore Previous Launcher</string>
+    <string name="search_apps_hint">Search apps…</string>
+    <string name="low_ram_mode_title">Low RAM Optimization</string>
+    <string name="low_ram_mode_desc">Optimized for itel Vision 1 LTE (2GB RAM)</string>
+    <string name="clock_widget_title">AMOLED Clock</string>
+</resources>
